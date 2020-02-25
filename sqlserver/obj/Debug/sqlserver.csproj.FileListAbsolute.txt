@@ -1,0 +1,9 @@
+C:\Users\alper\source\repos\ConsoleApp1\sqlserver\bin\Debug\sqlserver.exe.config
+C:\Users\alper\source\repos\ConsoleApp1\sqlserver\bin\Debug\sqlserver.exe
+C:\Users\alper\source\repos\ConsoleApp1\sqlserver\bin\Debug\sqlserver.pdb
+C:\Users\alper\source\repos\ConsoleApp1\sqlserver\obj\Debug\sqlserver.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\ConsoleApp1\sqlserver\obj\Debug\sqlserver.Form1.resources
+C:\Users\alper\source\repos\ConsoleApp1\sqlserver\obj\Debug\sqlserver.Properties.Resources.resources
+C:\Users\alper\source\repos\ConsoleApp1\sqlserver\obj\Debug\sqlserver.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\ConsoleApp1\sqlserver\obj\Debug\sqlserver.exe
+C:\Users\alper\source\repos\ConsoleApp1\sqlserver\obj\Debug\sqlserver.pdb
