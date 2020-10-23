@@ -1,0 +1,14 @@
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\bin\Debug\CrudForNortwindDatabases.exe.config
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\bin\Debug\CrudForNortwindDatabases.exe
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\bin\Debug\CrudForNortwindDatabases.pdb
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\bin\Debug\EntityFramework.dll
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\bin\Debug\EntityFramework.xml
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\obj\Debug\CrudForNortwindDatabases.csprojAssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\obj\Debug\CrudForNortwindDatabases.Form1.resources
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\obj\Debug\CrudForNortwindDatabases.Properties.Resources.resources
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\obj\Debug\CrudForNortwindDatabases.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\obj\Debug\CrudForNortwindDatabases.csproj.CopyComplete
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\obj\Debug\CrudForNortwindDatabases.exe
+C:\Users\alper\OneDrive\Masaüstü\planc#\csharptrainer\CrudForNortwindDatabases\obj\Debug\CrudForNortwindDatabases.pdb
